@@ -11,7 +11,7 @@
 - [Resources](#resources)
   - [Wiki](#wiki)
 - [Mods](#mods)
-  - [Texture Packs](#texture packs)
+  - [Texture Packs](#texture-packs)
 - [Plugins](#plugins)
 
 ---
