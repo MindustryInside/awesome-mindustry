@@ -35,3 +35,4 @@
 - [RockTheVote](https://github.com/mayli/RockTheVotePlugin) - Simple plugin to change map.
 - [Hexed](https://github.com/Anuken/HexedPlugin) - A custom battle-royale-like gamemode for Mindustry. Spawns players in hexagonal arenas.
 - [MindGo](https://github.com/Xusk947/mind_go) - A csgo-like gamemode for Mindustry.
+- [Ranked](https://github.com/MindustryInside/RankedPlugin) - A ranked-pvp gamemode.
