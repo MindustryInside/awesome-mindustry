@@ -10,6 +10,7 @@
 
 - [Resources](#resources)
   - [Wiki](#wiki)
+  - [Tutorials](#tutorials)
 - [Mods](#mods)
   - [Texture Packs](#texture-packs)
 - [Plugins](#plugins)
@@ -21,6 +22,10 @@
 ### Wiki
 
 - [Official Wiki](https://mindustrygame.github.io/wiki/)
+
+### Tutorials
+
+- [ModLab Homing Lab](https://modlabguides.online/workshop/mindustry-homing) - A downloadable single-player Mindustry 160.7 workshop with editable source, recorded macOS runs, ZIP installation checks and rollback. [Source](https://github.com/liubrain39/modlab-homing-lab).
 
 ## Mods
 
