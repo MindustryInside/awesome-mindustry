@@ -10,6 +10,7 @@
 
 - [Resources](#resources)
   - [Wiki](#wiki)
+  - [Community websites](#community-websites)
 - [Mods](#mods)
   - [Texture Packs](#texture-packs)
 - [Plugins](#plugins)
@@ -21,6 +22,10 @@
 ### Wiki
 
 - [Official Wiki](https://mindustrygame.github.io/wiki/)
+
+### Community websites
+
+- [Mindustry Tool Web](https://github.com/mindustry-tool/MindustryToolWeb) - Source for a community website to share Mindustry maps and schematics ([website](https://mindustry-tool.com/)).
 
 ## Mods
 
